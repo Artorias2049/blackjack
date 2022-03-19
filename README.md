@@ -1,7 +1,7 @@
 # blackjack
-python based blackjack game custom rules
+python based blackjack game custom rules/n
 
-When you start the game you are greeted with line telling you how much money you currently possess. By default it will be $100.
+When you start the game you are greeted with line telling you how much money you currently possess. By default it will be $100./n
 You can pick a bet ammount but you can't bet above the ammount you have.
 Once you have entered the bet ammount the program will deal you and the dealer 2 cards. One of the dealers cards will be hidden.
 You will now be prompted with an option to either hit or stand. By pressing h the program will give you an additional card. If s is pressed no card is dealt to the user.
