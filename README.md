@@ -1,5 +1,5 @@
 # blackjack
-python based blackjack game custom rules/n
+python based blackjack game custom rules\n
 
 When you start the game you are greeted with line telling you how much money you currently possess. By default it will be $100./n
 You can pick a bet ammount but you can't bet above the ammount you have.
