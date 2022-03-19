@@ -18,3 +18,5 @@ python based blackjack game custom rules
 8) By winning the player will make double the ammount of what they had betted. If lost, the player will lose the betted ammount.
 
 9) The game will continue till the player has no money after which they have the option to restart the game with $100 again.
+
+![2022-03-19_15-01](https://user-images.githubusercontent.com/64321522/159115866-bb0bc7d3-f3c4-4175-8e7e-1056b6ef77b1.png)
